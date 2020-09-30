@@ -1,0 +1,31 @@
+body{
+	font-family: helvatica;
+	background: #E6F3FA
+}
+
+
+
+h2{
+	color: #737368
+}
+
+a{
+	color: #737368;
+	background-color: #EDF7F7;
+	border: 2px solid #FAACE5;
+}
+
+table, th , td{
+	border: 2px solid #FAACE5;
+}
+
+form{
+	background-color: #D2FBCF;
+}
+
+.zimage {
+	width: 980px ;
+	height: auto;
+
+}
+.container

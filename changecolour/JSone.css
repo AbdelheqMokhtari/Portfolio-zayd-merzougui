@@ -1,0 +1,21 @@
+#bluebox {
+  background-color: blue;
+  height: 200px;
+  width: 400px;
+  float: left;
+
+}
+#redbox {
+  height: 100px;
+  float: left;
+  width: 200px;
+  margin-left: 50px;
+  background-color: red;
+
+}
+#container {
+    width: 1000px;
+}
+#clear {
+    clear: both;
+}
